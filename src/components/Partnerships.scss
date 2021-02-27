@@ -1,0 +1,15 @@
+.ticker {
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+}
+
+.ticker_content {
+  white-space: nowrap;
+  /* color: white; */
+  display: inline;
+  padding-right: 2rem;
+  &::before {
+    content: "• ";
+  }
+}
