@@ -23,7 +23,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.2",
     "react-ticker": "^1.2.2",
-    "swiper": "^6.4.15",
+    "swiper": "^6.7.1",
     "timeago.js": "^4.0.2",
     "web-vitals": "^1.0.1"
   },
