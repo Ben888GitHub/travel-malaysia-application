@@ -11,7 +11,7 @@
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
     "file-saver": "^2.0.5",
-    "javascript-time-ago": "^2.3.4",
+    "javascript-time-ago": "^2.3.7",
     "node-sass": "^4.14.1",
     "public-ip": "^4.0.3",
     "react": "^17.0.1",
