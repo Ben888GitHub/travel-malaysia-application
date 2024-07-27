@@ -9,7 +9,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.1",
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.0.0",
     "file-saver": "^2.0.5",
     "javascript-time-ago": "^2.3.4",
     "node-sass": "^4.14.1",
